@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.inc.com/maria-aspan/lending-club-ceo-on-rough-first-public-year.html'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - laplanche
   - lending
@@ -17,8 +17,8 @@ keywords:
   - public
   - stock
 description: "Financial startups may be hotter than ever in Silicon Valley, but public markets investors are decidedly more skeptical. Just ask Renaud Laplanche, founder and CEO of online financial company Lending Club, the leader of this generation of fintech newcomers. In December 2014, Laplanche triumphantly presided over his company's blockbuster IPO, which valued Lending Club at more than $8 billion."
-datePublished: '2016-01-22T19:15:54.578Z'
-dateModified: '2016-01-22T19:15:24.987Z'
+datePublished: '2016-01-22T19:34:13.804Z'
+dateModified: '2016-01-22T19:34:10.136Z'
 author:
   - name: Maria Aspan
     url: 'http://www.inc.com/author/maria-aspan'
