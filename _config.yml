@@ -1,5 +1,8 @@
+name: MarketplaceLendingRevolution
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.3028674
 title: 'Marketplace Lending Revolution - "To borrow is human, to lend divine"'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,29 +15,26 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-72802533-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6451613
-  brandStrength: 0.4910394
-  lightness: 0.6362007
   brandColors:
     - '#D0D9DF'
     - '#313739'
     - '#9AA2A3'
     - '#898679'
+  brandStrength: 0.4910394
+  lightness: 0.6362007
+  saturation: 0.6451613
   rhythmicContrast: 0.6523297
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-72802533-1
-  facebook: null
-name: MarketplaceLendingRevolution
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3028674
-layout_spectrum: 1
+purpose: []
