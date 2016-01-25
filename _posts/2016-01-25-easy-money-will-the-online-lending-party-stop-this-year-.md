@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - lending
   - fintech
@@ -16,8 +16,8 @@ keywords:
   - lendup
   - welab
 description: "Payments is one of the most mature verticals in fintech, but it's no longer the biggest target for investment dollars. According to Pivotl data alternative online lending came out top as the biggest category for fintech backing in 2015, making up 42% of the USD7.2bn total tracked."
-datePublished: '2016-01-25T15:25:01.121Z'
-dateModified: '2016-01-25T15:24:48.748Z'
+datePublished: '2016-01-25T21:33:21.619Z'
+dateModified: '2016-01-25T20:38:04.229Z'
 author:
   - name: Sarah Gill
     url: 'http://www.pivotl.com/author/sarah/'
@@ -25,14 +25,14 @@ author:
 related: []
 app_links: []
 title: Easy Money - Will The Online Lending Party Stop This Year? - Pivotl
+sourcePath: _posts/2016-01-25-easy-money-will-the-online-lending-party-stop-this-year-.md
+published: true
 authors: []
 publisher:
   name: Pivotl
   domain: www.pivotl.com
   url: 'http://www.pivotl.com'
   favicon: 'http://www.pivotl.com/wp-content/themes/strategyeye/favicons/favicon.ico'
-sourcePath: _posts/2016-01-25-easy-money-will-the-online-lending-party-stop-this-year-.md
-published: true
 url: easy-money-will-the-online-lending-party-stop-this-year-/index.html
 _context: 'http://schema.org'
 _type: MediaObject
