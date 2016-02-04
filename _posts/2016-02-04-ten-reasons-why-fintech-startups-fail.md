@@ -1,9 +1,9 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - fintech
   - startups
@@ -16,20 +16,20 @@ keywords:
   - payments
   - financial
 description: You have a great fintech business plan. So you assemble your team and create your startup. Here are ten common mistakes you should avoid if you want to have a chance to live another day. Ignoring the licensing process You think you are a tech company. You think you are only building software.
-datePublished: '2016-02-04T20:14:13.835Z'
-dateModified: '2016-02-04T20:14:02.559Z'
+datePublished: '2016-02-04T21:12:40.473Z'
+dateModified: '2016-02-04T21:12:34.602Z'
 author: []
 related: []
 app_links: []
 title: Ten Reasons Why Fintech Startups Fail
+sourcePath: _posts/2016-02-04-ten-reasons-why-fintech-startups-fail.md
+published: true
 authors: []
 publisher:
   name: Bank Think
   domain: www.americanbanker.com
   url: 'http://www.americanbanker.com'
   favicon: 'http://cdn.americanbanker.com/media/ui/bankthink-favicon.ico'
-sourcePath: _posts/2016-02-04-ten-reasons-why-fintech-startups-fail.md
-published: true
 url: ten-reasons-why-fintech-startups-fail/index.html
 _context: 'http://schema.org'
 _type: MediaObject
