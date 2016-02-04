@@ -4,8 +4,15 @@
         <description><![CDATA[Marketplace Lending Revolution - "To borrow is human, to lend divine"]]></description>
         <link>http://marketplacelendingrevolution.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 13:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 20:15:04 GMT</lastBuildDate>
         <atom:link href="http://marketplacelendingrevolution.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ten Reasons Why Fintech Startups Fail]]></title>
+            <description><![CDATA[<article><h1>Ten Reasons Why Fintech Startups Fail</h1><p>Whether the economy is expanding or contracting will have an impact on your business. This goes without saying, but doubly so in fintech. Let's take the example of alternative lending platforms. If an alternative lending platform's management team has built its business model off of low interest rates and related assumptions regarding default rates, the team will have a rude awakening when interest rates start to rise. Building a business model in fintech off of where one is in the current business cycle is short-sighted. Think of credit downturns, interest rate cycles and monetary policy, and start scenario planning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/836f28441e5fb2051633c5818af52525afa48cf2.jpg"></article>]]></description>
+            <link>http://marketplacelendingrevolution.com/ten-reasons-why-fintech-startups-fail/index.html</link>
+            <guid isPermaLink="false">6a6adb30-e253-45e4-a62f-9a92b8ab0888</guid>
+            <pubDate>Thu, 04 Feb 2016 20:14:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The State of Online Small Business Lending]]></title>
             <description><![CDATA[<article><h1>The State of Online Small Business Lending</h1><p>In small business lending, it means access to industry-wide information on eligibility requirements and rate trends. It means clear and concise explanations of all the different loan products available. It means holding lenders and brokers accountable for their actions, and enforcing honesty on every level. Here at Fundera, we're no strangers to transparency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/074c23495fa690f6c47cba298189d6301b5e0d6c.jpg"></article>]]></description>
@@ -74,17 +81,10 @@ professionals in successfully managing credit risk.</p><img src="https://s3-us-w
         </item>
         <item>
             <title><![CDATA[Ponzi Scheme Threat Hangs Over Marketplace Lending]]></title>
-            <description><![CDATA[<article><h1>Ponzi Scheme Threat Hangs Over Marketplace Lending</h1><p>What if all the notes you bought on a peer-to-peer or marketplace lending platform were tied to loans that didn't exist? Such a scenario has not only happened but is a recurring theme over in China. The recent $7.6 billion fraud that was allegedly perpetrated by the management of Ezubao (a Chinese-based P2P lender) affected [...]</p><img src="http://debanked.com/wp-content/uploads/2016/02/32624986_S.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Ponzi Scheme Threat Hangs Over Marketplace Lending</h1><p>What if all the notes you bought on a peer-to-peer or marketplace lending platform were tied to loans that didn't exist? Such a scenario has not only happened but is a recurring theme over in China. The recent $7.6 billion fraud that was allegedly perpetrated by the management of Ezubao (a Chinese-based P2P lender) affected [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1292c0762e1e24d92ee7e92ae81ae24782aeec21.jpg"></article>]]></description>
             <link>http://debanked.com/2016/02/ponzi-scheme-threat-hangs-over-marketplace-lending/</link>
             <guid isPermaLink="false">6059b615-7b17-4046-aa04-3e53a09ab2b1</guid>
             <pubDate>Thu, 04 Feb 2016 13:44:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lending Club's Bumpy Ride | PYMNTS.com]]></title>
-            <description><![CDATA[<article><h1>Lending Club's Bumpy Ride | PYMNTS.com</h1><p>Even by the unusually turbulent standards set by the first eventful 31 days of 2016, Lending Club's entrance into the new year has been bumpy to say the least. A year ago at this time, the picture was very different.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b0eaf91120f5b41ce50d31dac2f60b14691334c.jpg"></article>]]></description>
-            <link>http://www.pymnts.com/news/alternative-financial-services/2016/lending-clubs-bumpy-ride/</link>
-            <guid isPermaLink="false">f925c832-f030-4966-b3d3-35d19adf2b00</guid>
-            <pubDate>Wed, 03 Feb 2016 20:52:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
