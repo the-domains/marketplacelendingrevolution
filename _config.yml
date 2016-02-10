@@ -6,22 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.7580645
-  brandStrength: 0.4910394
+  brandStrength: 0.7365592
   lightness: 0.6362007
   brandColors:
-    - '#D0D9DF'
-    - '#313739'
-    - '#9AA2A3'
-    - '#898679'
-  rhythmicContrast: 0.6523297
+    - '#2E5CB5'
+    - '#4B4239'
+    - '#FCFCFB'
+    - '#C6BDB4'
+    - '#B4D1FF'
+  rhythmicContrast: 0.8189964
 cta:
   bucket: null
   version: null
@@ -30,11 +31,11 @@ analytics:
   twitter: null
   google: UA-72802533-1
   facebook: null
-name: MarketplaceLendingRevolution
 favicon: null
+name: MarketplaceLendingRevolution
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.6236559
-layout_spectrum: 1
+typography_spectrum: 0.890681
+layout_spectrum: 0
